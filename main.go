@@ -52,7 +52,7 @@ func main() {
 
 	stu1 := stu{
 		name: "Sesh",
-		age:  22,
+		age:  23,
 	}
 
 	map5 := map[int]stu{
